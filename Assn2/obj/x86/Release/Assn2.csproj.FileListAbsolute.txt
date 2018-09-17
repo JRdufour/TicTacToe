@@ -1,0 +1,3 @@
+/Users/Dufour/Projects/Assn2/Assn2/bin/Release/Assn2.exe
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Release/Assn2.csproj.CoreCompileInputs.cache
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Release/Assn2.exe

@@ -1,0 +1,6 @@
+/Users/Dufour/Projects/Assn2/Assn2/bin/Debug/Assn2.exe
+/Users/Dufour/Projects/Assn2/Assn2/bin/Debug/Assn2.pdb
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Debug/Assn2.csprojAssemblyReference.cache
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Debug/Assn2.csproj.CoreCompileInputs.cache
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Debug/Assn2.exe
+/Users/Dufour/Projects/Assn2/Assn2/obj/x86/Debug/Assn2.pdb
